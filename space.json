@@ -1,0 +1,8 @@
+{
+  "runtime": "static",
+  "platformVersion": 15,
+  "entry": "index.html",
+  "name": "宇宙漫游",
+  "slug": "yu-zhou-man-you",
+  "managedCronJobs": []
+}
